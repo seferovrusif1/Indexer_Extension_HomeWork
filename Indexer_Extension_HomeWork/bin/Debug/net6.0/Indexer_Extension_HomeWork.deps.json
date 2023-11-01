@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Indexer_Extension_HomeWork/1.0.0": {
+        "runtime": {
+          "Indexer_Extension_HomeWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indexer_Extension_HomeWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

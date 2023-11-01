@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\bin\Debug\net6.0\Indexer_Extension_HomeWork.exe
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\bin\Debug\net6.0\Indexer_Extension_HomeWork.deps.json
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\bin\Debug\net6.0\Indexer_Extension_HomeWork.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\bin\Debug\net6.0\Indexer_Extension_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\bin\Debug\net6.0\Indexer_Extension_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\refint\Indexer_Extension_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\Indexer_Extension_HomeWork.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\Indexer_Extension_HomeWork\Indexer_Extension_HomeWork\obj\Debug\net6.0\ref\Indexer_Extension_HomeWork.dll
